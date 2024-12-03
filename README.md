@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/405a5595-a29f-454d-8965-bc57918b5ede
 1. Clone the repository:
    ```bash
    git clone https://github.com/Priyansh159/ping-pong-game.git
+2. Run the "main.py" file
 
 <h2>Screenshot</h2>
 <img width="912" alt="Screenshot 2024-12-04 at 12 36 35 AM" src="https://github.com/user-attachments/assets/206e18b9-85fa-4daf-b9ca-a6bb6f297c74">
